@@ -54,7 +54,7 @@ const WelcomeCard: React.FC<{ onNewEvent: () => void }> = ({ onNewEvent }) => {
             })}
           >
             <Settings size={18} />
-            Configurações
+      
           </Button>
         </div>
       </CardContent>
